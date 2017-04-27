@@ -41,8 +41,8 @@ footer{
 	background-color: #ccc;
 }
 #wrapper li{
-	height: 15rem;
-	/*line-height: 10rem;*/
+	height: 10rem;
+	line-height: 10rem;
 	text-align: center;
 	border-bottom: 1px solid rgba(0,0,0,.1);
 }
